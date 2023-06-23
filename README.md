@@ -8,3 +8,5 @@ Terdapat Beberapa Metode antara lain :
 
 #### 2. Integrasi Gauss 3
 - Run file gauss3.m
+
+#### 3. Linearisasi Persamaan NonLinier
