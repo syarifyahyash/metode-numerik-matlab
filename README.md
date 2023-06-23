@@ -15,4 +15,5 @@ Terdapat Beberapa Metode antara lain :
 #### 4. Selisih Tengah
 - Run pada File .m
 
-#### 5. 
+#### 5. Bisection
+- Run pada File .m
