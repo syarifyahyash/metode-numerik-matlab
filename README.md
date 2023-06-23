@@ -10,3 +10,6 @@ Terdapat Beberapa Metode antara lain :
 - Run file gauss3.m
 
 #### 3. Linearisasi Persamaan NonLinier
+- Run pada File .m
+
+#### 4. 
