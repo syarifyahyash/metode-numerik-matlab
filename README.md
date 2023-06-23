@@ -12,4 +12,7 @@ Terdapat Beberapa Metode antara lain :
 #### 3. Linearisasi Persamaan NonLinier
 - Run pada File .m
 
-#### 4. 
+#### 4. Selisih Tengah
+- Run pada File .m
+
+#### 5. 
