@@ -1,2 +1,2 @@
 # metode-numerik-matlab
-Gambar 1. Kecepatan Unduh Maksimal
+Koding Matlab Metode Numerik
